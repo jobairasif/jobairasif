@@ -24,7 +24,6 @@ Skills: JS / HTML / CSS / WordPress / E-Commerce
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/jobairasif/contributions?format=svg&private=false)  
 
-![GitHub metrics](https://metrics.lecoq.io/jobairasif)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=jobairasif)  
 
