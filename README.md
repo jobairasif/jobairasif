@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Jobair Asif
 #### Web Developer
-![Web Developer](https://scontent.fcgp13-1.fna.fbcdn.net/v/t1.6435-9/168454248_1410356955981089_6244365756523005080_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=7a1959&_nc_ohc=sd1WUnDViaEAX9j6vUb&_nc_ht=scontent.fcgp13-1.fna&oh=00_AfCOzpiRMeoP-BX9akkDehLnhMJW6wQ2TikrTxs3xkjMUA&oe=65ADDA83)
 
 I bring digital dreams to life as a Front-End Developer, specializing in WordPress, UI/UX, and Graphic Design. With a versatile skill set, I weave visually stunning and user-friendly websites, finely tuned for performance and accessibility. My expertise extends to crafting custom themes and plugins, designing intuitive interfaces, and creating captivating visuals that amplify user experiences.
 
