@@ -3,7 +3,7 @@
 
 I bring digital dreams to life as a Front-End Developer, specializing in WordPress, UI/UX, and Graphic Design. With a versatile skill set, I weave visually stunning and user-friendly websites, finely tuned for performance and accessibility. My expertise extends to crafting custom themes and plugins, designing intuitive interfaces, and creating captivating visuals that amplify user experiences.
 
-Skills: JS / HTML / CSS / WordPress / E-Commerce
+Skills: React / JS / HTML / CSS / WordPress / E-Commerce
 
 - 🔭 I’m currently working on UpWork 
 - 🌱 I’m currently learning JavaScript 
