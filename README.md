@@ -5,7 +5,7 @@ I bring digital dreams to life as a Front-End Developer, specializing in WordPre
 
 Skills: React / JS / HTML / CSS / WordPress / E-Commerce / SaaS
 
-- 🔭 I’m currently working on UpWork 
+- 🔭 I’m currently available on UpWork 
 - 🌱 I’m currently learning JavaScript, React, Tailwind CSS, Saas
 - 👯 I’m looking to collaborate on Front-end Projects 
 - 💬 Ask me about Web Development | Wordpress | E-Commerce | Shopify 
