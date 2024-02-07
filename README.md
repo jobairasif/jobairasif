@@ -9,7 +9,7 @@ Skills: React / JS / HTML / CSS / WordPress / E-Commerce / SaaS
 - 🌱 I’m currently learning JavaScript, React, Tailwind CSS, Saas
 - 👯 I’m looking to collaborate on Front-end Projects 
 - 💬 Ask me about Web Development | Wordpress | E-Commerce | Shopify 
-- 📫 How to reach me: UpWork | Social Media 
+- 📫 How to reach me: UpWork
 - ⚡ Fun fact: Environmental Science Graduate with interest in Coding, more of a  "Green thinker with a code-driven flair! 🌍💻" 
 
 
